@@ -1,0 +1,56 @@
+{
+    "version": "https://schema.openattestation.com/2.0/schema.json",
+    "data": {
+      "id": "7e51254a-6dfd-4a1c-9c1c-b86b63223859:string:8f6d0f12-eb4a-4799-a3ec-7686b000537a",
+      " recipient": {
+        "id": "366ba826-f6be-456d-b6ad-58b5e03a3e81:string:85cd0376",
+        "name": "b3c777dd-d077-4e9f-a0fc-0cb874cc7ac8:string:Try Krisna",
+        "address": "738be555-fc79-4a5f-9ee5-ef677744d3fa:string:Phnom Penh Cambodia",
+        "image": "ba420b02-b5c3-4432-b24e-289bb26e61eb:string:https://www.shutterstock.com/image-vector/man-character-face-avatar-glasses-260nw-562077406.jpg"
+      },
+      "asset": {
+        "assetType": "554998c7-5ceb-4d0b-9f6f-7cc73b83fb72:string:MOTORCYCLE",
+        "type": "81870ee7-675d-4d2e-8d12-6a6f57eadb34:string:female",
+        "brand": "1a92b4a9-c2ab-41ac-bc48-b04387205665:string:HONDA PCX",
+        "Color": "030541f1-04ac-45f2-99f2-26643e4637c6:string:ស",
+        "NumberPlate": "07d3c445-efdc-4efb-b11a-eb53480c144f:string:Phnom Penh 1HC- 0368",
+        "engineNo": "34c3a1a8-df4b-4c3f-885f-52d89ab9e958:string:KE20E4547212",
+        "chassisNo": "aef648c9-b5ed-4b16-8fc9-9100078bbd7a:string:NIL",
+        "yearOfMFG": "a9dcc49b-9f53-4c77-9e25-3620351acb41:string:2018",
+        "emptyFiel": "1af290c9-cd1a-460b-8586-0de82a7dd2e4:string:",
+        "frameNo": "16054f94-f06d-49d9-be0a-e6b5e0d9b0ed:string:MLHKF2085J5554721",
+        "hPower": "fb1ca3fb-0f38-40e1-ab0a-1e0b48eed96f:string:150CC",
+        "noOfAxles": "49bd22f3-ffb1-4ce8-a03a-743ba52ddb8a:string:NIL",
+        "CYLINDERSDISP": "aef99c7a-91eb-46a1-bab5-456b39c2b60f:string:150",
+        "image": "927c75d3-3fe7-4b5f-9f43-e265fef32271:string:https://www.cycleworld.com/resizer/Onl7SxtVZguzJYI1rBwsJSCiiOE=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/7CRF4WYSSBFKBCD4EGMM7YEJY4.jpg"
+      },
+      "owner": {
+        "id": "30050b52-2713-4359-aa70-523cbde4db52:string:85cd0376",
+        "name": "d6849936-66be-4d5c-8989-74d317c5d685:string:Try Krisna",
+        "address": "e867f2a0-133c-4054-a99f-ce3f9f20ef6d:string:Phnom Penh Cambodia",
+        "nationalIdCard": "0fb11163-c4ef-444b-b02f-ab41d0fa6a7e:string:123456789",
+        "image": "e3a49c81-6b58-4941-9f70-62daf3412cf3:string:https://www.shutterstock.com/image-vector/man-character-face-avatar-glasses-260nw-562077406.jpg"
+      },
+      "issuers": [
+        {
+          "name": "e98db917-b802-4724-9ecb-c71cff284c44:string:Krisna",
+          "tokenRegistry": "dffa4bd6-1981-44b3-8c34-4b24e2001a55:string:0xbA8de38c7A16c0531Cc93Be73aEab6fDb3a607Ea",
+          "identityProof": {
+            "type": "2be8552d-1cd8-4e3c-b0e9-ea01c1a7612d:string:DNS-TXT",
+            "location": "eb216763-0eb1-4f68-8dc8-8ae0087295ec:string:krisna.lol"
+          }
+        }
+      ],
+      "$template": {
+        "name": "8a90a01b-42f7-409c-ae09-4adfd10f9e7e:string:NUMBER_PLATE_TEMPLATE",
+        "type": "2a122d30-e776-47b3-9c41-ea5c75f7e1b3:string:EMBEDDED_RENDERER",
+        "url": "8a86b2d8-237a-4246-ba8b-6ea93c1fa156:string:http://localhost:3000/"
+      }
+    },
+    "signature": {
+      "type": "SHA3MerkleProof",
+      "targetHash": "7fefb7de01ace81ec77f9608381d58964c302374950f113cbbcc797ad43dfa2f",
+      "proof": [],
+      "merkleRoot": "7fefb7de01ace81ec77f9608381d58964c302374950f113cbbcc797ad43dfa2f"
+    }
+  }
